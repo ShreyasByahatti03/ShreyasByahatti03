@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShreyasByahatti03
+- 👋 Hi, I’m 
 - 👀 I’m interested in 
 - 🌱 I’m currently learning bachelors of engineering
 - 💞️ I’m looking to collaborate on data science projects
